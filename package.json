@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "nginx": "^1.0.8",
+    "path": "^0.12.7",
+    "vercel": "^41.4.1"
+  },
+  "name": "coldnova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "node MainLoader.js && git add . && git commit -m '1' && git push && vercel --prod",
+    "build": "node MainLoader.js",
+    "dev": "vercel dev --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developers-fun/coldnova.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/developers-fun/coldnova/issues"
+  },
+  "homepage": "https://github.com/developers-fun/coldnova#readme"
+}

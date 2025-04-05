@@ -1,0 +1,7 @@
+/.DS_Store
+/.vscode
+node_modules
+README.node_modules
+.vercel
+.env
+/backend/node_modules

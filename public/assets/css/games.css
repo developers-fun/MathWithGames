@@ -1,0 +1,86 @@
+/* Adjust iframe layout */
+#iframe {
+    height: 600px;
+    width: calc(100vw - 300px); /* Subtract 300px for the ad container */
+    outline: none;
+    border: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+/* Tag container setup */
+.Tag {
+  margin: auto;
+  width: calc(100vw - 300px); /* Relative width for responsiveness */
+  height: 100px;
+  margin-left: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1e1e1e;
+  border-radius: 0 0 15px 15px;
+  padding: 10px;
+  position: relative;
+  box-sizing: border-box; /* Ensures padding is inside the width */
+}
+
+/* Media query for small screens */
+@media (max-width: 800px) {
+    #iframe {
+        width: 100vw;
+        margin-right: 0;
+    }
+
+    .Tag {
+        width: 100vw;
+        margin-right: 0;
+    }
+}
+
+/* Fullscreen image styling */
+.FullscreenImg {
+  width: 80px;
+  height: 80px;
+  margin-left: 10px;
+  display: block;
+}
+
+/* Tag image styling */
+.TagImg {
+  width: 90px;
+  height: 90px;
+  border-radius: 16px;
+  margin-left: 10px;
+}
+
+/* Tag text container */
+.TagTextContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.TagGameName {
+  font-size: 25px;
+  margin-top: 1px;
+  margin-bottom: 5px;
+}
+
+.TagGameCreator {
+  font-size: 20px;
+  color: #616161;
+}
+
+/* Tag container flex setup */
+.tagcontainer {
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 550px) {
+    .TagTextContainer {
+        display: none; /* Hide text on smaller screens */
+    }
+}

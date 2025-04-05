@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /assets/
+Disallow: /game/
+Disallow: /backend/
+Disallow: /functions/
+
+Sitemap: https://coldnova.xyz/sitemap.xml
+
+Crawl-delay: 1
