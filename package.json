@@ -4,6 +4,7 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "fs": "^0.0.1-security",
+    "http-proxy-middleware": "^3.0.3",
     "nginx": "^1.0.8",
     "path": "^0.12.7",
     "vercel": "^41.4.1"

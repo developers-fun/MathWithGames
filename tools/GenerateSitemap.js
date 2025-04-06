@@ -1,8 +1,9 @@
 const fs = require("fs");
 const path = require("path");
 
-const targetFolder = path.resolve('public/g'); // Adjusted for tools folder
-const sitemapFile = path.resolve('public/sitemap.xml'); // Save sitemap in project root
+const publicFolder = path.resolve("public/");
+const targetFolder = path.join(publicFolder, "g"); // Adjusted for tools folder inside public
+const sitemapFile = path.join(publicFolder, "sitemap.xml"); // Save sitemap in public folder
 const domain = "https://coldnova.xyz"; // Change this to your actual domain
 
 // Function to get all HTML files recursively
@@ -41,15 +42,15 @@ function generateSitemap(files) {
     let rootIndexIncluded = false;
 
     files.forEach(file => {
-        let relativePath = path.relative("./", file);
+        let relativePath = path.relative(publicFolder, file).replace(/\\/g, "/"); // Normalize to web paths
 
-        // Check for the root index.html explicitly
+        // Handle root index.html
         if (relativePath === "index.html") {
-            relativePath = ""; // Root domain "/"
+            relativePath = "";
             rootIndexIncluded = true;
         }
 
-        // If it's an index.html inside a subfolder, rewrite it as the folder path
+        // Rewrite subfolder index.html as folder path
         if (relativePath.endsWith("index.html")) {
             relativePath = relativePath.replace(/index\.html$/, "");
         }
@@ -62,7 +63,7 @@ function generateSitemap(files) {
         xmlContent += `  </url>\n`;
     });
 
-    // Ensure the root landing page is added if it wasn't detected
+    // Ensure the root landing page is added if missing
     if (!rootIndexIncluded) {
         xmlContent += `  <url>\n`;
         xmlContent += `    <loc>${domain}/</loc>\n`;
@@ -73,7 +74,6 @@ function generateSitemap(files) {
     }
 
     xmlContent += `</urlset>`;
-
     return xmlContent;
 }
 

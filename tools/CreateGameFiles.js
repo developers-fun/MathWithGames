@@ -6,9 +6,9 @@ const template = fs.readFileSync(path.resolve("gametemplate.html"), 'utf8');
 
 // Utility to delete all children of a directory
 function clearDirectory(dirPath) {
-    if (fs.existsSync(dirPath)) {
-        fs.readdirSync(dirPath).forEach((file) => {
-            const curPath = path.join(dirPath, file);
+    if (fs.existsSync(path.join("public", dirPath))) {
+        fs.readdirSync(path.join("public", dirPath)).forEach((file) => {
+            const curPath = path.join("public", dirPath, file);
             if (fs.lstatSync(curPath).isDirectory()) {
                 // Recursively delete subdirectories
                 fs.rmSync(curPath, { recursive: true, force: true });
@@ -24,17 +24,18 @@ function main() {
     let errors = 0;
     let files = 0;
 
-    const outputDir = 'public/g'; // Set output directory to 'g'
+    const outputDir = 'g'; // Set output directory to 'g'
 
-    // Create 'g' directory if it doesn't exist
-    if (!fs.existsSync(outputDir)) {
-        fs.mkdirSync(outputDir);
+    // Create 'g' directory inside public if it doesn't exist
+    const outputDirPath = path.join("public", outputDir);
+    if (!fs.existsSync(outputDirPath)) {
+        fs.mkdirSync(outputDirPath);
     } else {
         // Clear all contents of 'g' before regenerating files
         clearDirectory(outputDir);
     }
 
-    const gamesData = JSON.parse(fs.readFileSync(path.resolve("public/games.json"), 'utf8'));
+    const gamesData = JSON.parse(fs.readFileSync(path.resolve("public", "games.json"), 'utf8'));
     gamesData.games.forEach((game) => {
         try {
             if (game.visible === 1) {
@@ -51,7 +52,7 @@ function main() {
                 }
 
                 const newFileName = `${game.name.toLowerCase().replace(/\s+/g, '')}.html`; // Remove spaces and hyphens
-                const newFilePath = path.join(outputDir, newFileName);
+                const newFilePath = path.join(outputDirPath, newFileName);
 
                 // Replace keywords in the template
                 const creator = game.creator.replace(/-/g, ' ');
