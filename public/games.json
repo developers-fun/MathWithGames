@@ -277,8 +277,8 @@
             "creator": "az games",
             "path": "/g/escaperoad.html",
             "image": "/assets/image/escaperoad.png",
-            "visible": 1,
-            "hot": 1,
+            "visible": 0,
+            "hot": 0,
             "categories": [
                 "action"
             ],
@@ -289,8 +289,8 @@
             "creator": "az games",
             "path": "/g/escaperoad2.html",
             "image": "/assets/image/escaperoad2.png",
-            "visible": 1,
-            "hot": 1,
+            "visible": 0,
+            "hot": 0,
             "categories": [
                 "action"
             ],
@@ -551,8 +551,8 @@
             "creator": "new star games",
             "path": "/g/retrobowl.html",
             "image": "/assets/image/retrobowl.png",
-            "visible": 1,
-            "hot": 1,
+            "visible": 0,
+            "hot": 0,
             "categories": [
                 "action",
                 "shooter",
