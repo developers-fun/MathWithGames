@@ -12,7 +12,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/1v1.lol/"
+            "iframepath": "/1v1.lol/"
         },
         {
             "name": "2 minute football",
@@ -25,7 +25,7 @@
                 "sports",
                 "arcade"
             ],
-            "iframepath": "/game/2minutefootball"
+            "iframepath": "/2minutefootball"
         },
         {
             "name": "among us",
@@ -39,7 +39,7 @@
                 "strategy",
                 "social"
             ],
-            "iframepath": "/game/amongus"
+            "iframepath": "/amongus"
         },
         {
             "name": "bitlife",
@@ -51,7 +51,7 @@
             "categories": [
                 "arcade"
             ],
-            "iframepath": "/game/bitlife"
+            "iframepath": "/bitlife"
         },
         {
             "name": "block blast",
@@ -63,7 +63,7 @@
             "categories": [
                 "arcade"
             ],
-            "iframepath": "/game/blockblast"
+            "iframepath": "/blockblast"
         },
         {
             "name": "boxing random",
@@ -76,7 +76,7 @@
                 "sports",
                 "arcade"
             ],
-            "iframepath": "/game/boxingrandom"
+            "iframepath": "/boxingrandom"
         },
         {
             "name": "basketball bros",
@@ -89,7 +89,7 @@
                 "sports",
                 "arcade"
             ],
-            "iframepath": "/game/basketbros"
+            "iframepath": "/basketbros"
         },
         {
             "name": "blumgi slime",
@@ -103,7 +103,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/blumgislime"
+            "iframepath": "/blumgislime"
         },
         {
             "name": "clicker heroes",
@@ -117,7 +117,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/clickerheroesmain/"
+            "iframepath": "/clickerheroesmain/"
         },
         {
             "name": "color switch",
@@ -131,7 +131,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/colorswitch"
+            "iframepath": "/colorswitch"
         },
         {
             "name": "cookie clicker",
@@ -145,7 +145,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/cookieclickermain"
+            "iframepath": "/cookieclickermain"
         },
         {
             "name": "coreball",
@@ -159,7 +159,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/coreball"
+            "iframepath": "/coreball"
         },
         {
             "name": "chess",
@@ -172,7 +172,7 @@
                 "strategy",
                 "multiplayer"
             ],
-            "iframepath": "/game/chess"
+            "iframepath": "/chess"
         },
         {
             "name": "dadish",
@@ -186,7 +186,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/dadish"
+            "iframepath": "/dadish"
         },
         {
             "name": "dadish 3",
@@ -200,7 +200,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/dadish3"
+            "iframepath": "/dadish3"
         },
         {
             "name": "descent",
@@ -214,7 +214,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/descent"
+            "iframepath": "/descent"
         },
         {
             "name": "doodle baseball",
@@ -228,7 +228,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/doodlebaseball"
+            "iframepath": "/doodlebaseball"
         },
         {
             "name": "doodle jump",
@@ -242,7 +242,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/doodlejumpmain"
+            "iframepath": "/doodlejumpmain"
         },
         {
             "name": "drift boss",
@@ -256,7 +256,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/driftbossmain"
+            "iframepath": "/driftbossmain"
         },
         {
             "name": "drive mad",
@@ -270,7 +270,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/drivemadmain"
+            "iframepath": "/drivemadmain"
         },
         {
             "name": "escape road",
@@ -282,7 +282,7 @@
             "categories": [
                 "action"
             ],
-            "iframepath": "https://azgames.io/game/escaperoad/"
+            "iframepath": "https://azgames.io/escaperoad/"
         },
         {
             "name": "escape road 2",
@@ -294,7 +294,7 @@
             "categories": [
                 "action"
             ],
-            "iframepath": "https://game.azgame.io/escaperoad2/"
+            "iframepath": "https:/.azgame.io/escaperoad2/"
         },
         {
             "name": "fruit ninja",
@@ -308,7 +308,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/fruit"
+            "iframepath": "/fruit"
         },
         {
             "name": "geometry dash",
@@ -322,7 +322,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/geometrydash"
+            "iframepath": "/geometrydash"
         },
         {
             "name": "getaway shootout",
@@ -336,7 +336,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/getawayshootouts"
+            "iframepath": "/getawayshootouts"
         },
         {
             "name": "gobble",
@@ -350,7 +350,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/gobble"
+            "iframepath": "/gobble"
         },
         {
             "name": "google snake",
@@ -362,7 +362,7 @@
             "categories": [
                 "puzzle"
             ],
-            "iframepath": "/game/snak.ee/googlesnakenew"
+            "iframepath": "/snak.ee/googlesnakenew"
         },
         {
             "name": "hextris",
@@ -376,7 +376,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/hextrismain"
+            "iframepath": "/hextrismain"
         },
         {
             "name": "hover racer drive",
@@ -390,7 +390,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/hoverracedrive"
+            "iframepath": "/hoverracedrive"
         },
         {
             "name": "jetpack joyride",
@@ -404,7 +404,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/jetpackjoyride"
+            "iframepath": "/jetpackjoyride"
         },
         {
             "name": "l2f",
@@ -418,7 +418,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/l2f"
+            "iframepath": "/l2f"
         },
         {
             "name": "l2f2",
@@ -432,7 +432,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/l2f2"
+            "iframepath": "/l2f2"
         },
         {
             "name": "l2f3",
@@ -446,7 +446,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/l2f3"
+            "iframepath": "/l2f3"
         },
         {
             "name": "level devil",
@@ -460,7 +460,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/leveldevil"
+            "iframepath": "/leveldevil"
         },
         {
             "name": "minecraft",
@@ -474,7 +474,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/minecraft"
+            "iframepath": "/minecraft"
         },
         {
             "name": "monkey mart",
@@ -488,7 +488,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/monkeymart"
+            "iframepath": "/monkeymart"
         },
         {
             "name": "motoroadrash3d",
@@ -502,7 +502,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/motoroadrash3d"
+            "iframepath": "/motoroadrash3d"
         },
         {
             "name": "motox3m",
@@ -516,7 +516,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/motox3mmain"
+            "iframepath": "/motox3mmain"
         },
         {
             "name": "murder",
@@ -530,7 +530,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/murder"
+            "iframepath": "/murder"
         },
         {
             "name": "ragdoll hit",
@@ -544,7 +544,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/ragdollhit"
+            "iframepath": "/ragdollhit"
         },
         {
             "name": "retrobowl",
@@ -558,7 +558,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "https://game316009.konggames.com/gamez/0031/6009/live/index.html"
+            "iframepath": "https:/316009.konggames.comz/0031/6009/live/index.html"
         },
         {
             "name": "slice master",
@@ -572,7 +572,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/slicemaster"
+            "iframepath": "/slicemaster"
         },
         {
             "name": "slope",
@@ -586,7 +586,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/slope"
+            "iframepath": "/slope"
         },
         {
             "name": "slope 2",
@@ -600,7 +600,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/slope2"
+            "iframepath": "/slope2"
         },
         {
             "name": "soccer random",
@@ -613,7 +613,7 @@
                 "sports",
                 "arcade"
             ],
-            "iframepath": "/game/soccerrandom"
+            "iframepath": "/soccerrandom"
         },
         {
             "name": "stack",
@@ -627,7 +627,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/stackmain"
+            "iframepath": "/stackmain"
         },
         {
             "name": "stacktris",
@@ -641,7 +641,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/stacktris"
+            "iframepath": "/stacktris"
         },
         {
             "name": "subway surfers",
@@ -655,7 +655,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/subwaysurfers"
+            "iframepath": "/subwaysurfers"
         },
         {
             "name": "table tennis world tour",
@@ -668,7 +668,7 @@
                 "sports",
                 "arcade"
             ],
-            "iframepath": "/game/tabletennisworldtour"
+            "iframepath": "/tabletennisworldtour"
         },
         {
             "name": "tag",
@@ -682,7 +682,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/tag"
+            "iframepath": "/tag"
         },
         {
             "name": "tag 2",
@@ -696,7 +696,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/tag2"
+            "iframepath": "/tag2"
         },
         {
             "name": "tinyfishing",
@@ -710,7 +710,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/tinyfishing"
+            "iframepath": "/tinyfishing"
         },
         {
             "name": "zeepkist crash",
@@ -724,7 +724,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/game/zeepkistcrash"
+            "iframepath": "/zeepkistcrash"
         }
     ]
 }
