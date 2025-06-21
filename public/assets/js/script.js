@@ -1,6 +1,6 @@
 let is_fullscreen = false;
 
-function openFullscreen() {
+window.openFullscreen = function() {
   let iframe = document.getElementById("iframe");
   let game = document.getElementById("game-area");
   let Button = document.getElementById("mobile-back-button");
@@ -60,69 +60,8 @@ function openFullscreen() {
 
     is_fullscreen = true;
   }
-}
+};
 
 function is_mobile_device() {
   return /Android|webOS|iPhone|iPad|iPod|BlackBerry|Windows Phone/i.test(navigator.userAgent);
-}
-
-function hideImgTextOnMobile() {
-  if (is_mobile_device()) {
-    let elements = document.getElementsByClassName("imgtext");
-    let elements2 = document.getElementsByClassName("CreatorText");
-
-    for (let i = 0; i < elements.length; i++) {
-      elements[i].style.display = "none";
-    }
-    for (let i = 0; i < elements2.length; i++) {
-      elements2[i].style.display = "none";
-    }
-  }
-}
-
-window.onload = function() {
-  document.body.classList.add('fade-in');
-
-  document.querySelectorAll('a').forEach(link => {
-    link.addEventListener('click', function(event) {
-      if (this.id.includes('no-animation')) {
-        return; // Skip animation
-      }
-      
-      event.preventDefault();
-      const href = this.getAttribute('href');
-
-      document.body.classList.add('fade-out');
-
-      setTimeout(() => {
-        window.location.href = href;
-      }, 700);
-    });
-  });
-};
-
-const userId = localStorage.getItem('userId') || crypto.randomUUID();
-localStorage.setItem('userId', userId);
-
-/*async function logUser(status) {
-    await fetch('https://coldnova.xyz/api/log-user', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ userId, status })
-    });
-}
-// Log when the user opens the tab
-logUser('joined');
-
-*/
-
-// Log when the user leaves or closes the tab
-window.addEventListener('beforeunload', () => logUser('left'));
-
-
-if (document.cookie.split('; ').find(row => row.startsWith('shown=')) !== 'shown=true') {
-  //window.location.href = '/disclaimer.html';
-} else {
-  // Create the 'shown' cookie with a value of 'true'
-  document.cookie = "shown=true; path=/; max-age=31536000"; // Cookie expires in 1 year
 }
