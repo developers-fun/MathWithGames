@@ -63,7 +63,7 @@
             "categories": [
                 "arcade"
             ],
-            "iframepath": "/blockblast"
+            "iframepath": "/BlockBlast"
         },
         {
             "name": "boxing random",
@@ -110,7 +110,7 @@
             "creator": "playsaurus",
             "path": "/g/clickerheroes.html",
             "image": "/assets/image/clickerheroes.png",
-            "visible": 1,
+            "visible": 0,
             "hot": 0,
             "categories": [
                 "action",
@@ -131,7 +131,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/colorswitch"
+            "iframepath": "/colorswitchmain"
         },
         {
             "name": "cookie clicker",
@@ -186,7 +186,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/dadish"
+            "iframepath": "/Dadish"
         },
         {
             "name": "dadish 3",
@@ -200,7 +200,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/dadish3"
+            "iframepath": "/Dadish3"
         },
         {
             "name": "descent",
@@ -357,8 +357,8 @@
             "creator": "google",
             "path": "/g/googlesnake.html",
             "image": "/assets/image/googlesnake.png",
-            "visible": 1,
-            "hot": 1,
+            "visible": 0,
+            "hot": 0,
             "categories": [
                 "puzzle"
             ],
@@ -418,7 +418,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/l2f"
+            "iframepath": "/L2f"
         },
         {
             "name": "l2f2",
@@ -432,12 +432,12 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/l2f2"
+            "iframepath": "/L2f2"
         },
         {
             "name": "l2f3",
             "creator": "marketjs",
-            "path": "/g/l2f3.html",
+            "path": "/g/L2f3.html",
             "image": "/assets/image/l2f3.png",
             "visible": 1,
             "hot": 0,
@@ -460,7 +460,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/leveldevil"
+            "iframepath": "/LevelDevil"
         },
         {
             "name": "minecraft",
@@ -530,7 +530,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/murder"
+            "iframepath": "/Murder"
         },
         {
             "name": "ragdoll hit",
@@ -668,7 +668,7 @@
                 "sports",
                 "arcade"
             ],
-            "iframepath": "/tabletennisworldtour"
+            "iframepath": "/TableTennisWorldTour"
         },
         {
             "name": "tag",
@@ -682,7 +682,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/tag"
+            "iframepath": "/Tag"
         },
         {
             "name": "tag 2",
@@ -696,7 +696,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/tag2"
+            "iframepath": "/Tag2"
         },
         {
             "name": "tinyfishing",
