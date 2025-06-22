@@ -18,7 +18,7 @@ function generateHotGames(games) {
       (game) => `
         <a href="${game.path}">
           <div class="SmallBox">
-            <img src="${game.image.startsWith('/') ? game.image.substring(1) : game.image}" alt="${game.name}" width="80" height="80" class="Box-Image" />
+            <img src="${game.image.startsWith('/') ? game.image.substring(1) : game.image}" loading="lazy" alt="${game.name}" width="80" height="80" class="Box-Image" />
             <div class="text-container">
               <h3 class="GameName">${game.name}</h3>
               <h3 class="AuthorName">${game.creator}</h3>
@@ -37,7 +37,7 @@ function generateGameList(games) {
     .map(
       (game) => `
         <a href="${game.path}" alt="${game.name}">
-          <img src="${game.image}" alt="${game.name}" width="150" height="150" class="GameImgs" />
+          <img src="${game.image}" alt="${game.name}" width="150" loading="lazy" height="150" class="GameImgs" />
         </a>
       `
     )
