@@ -4,18 +4,14 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "fs": "^0.0.1-security",
-    "http-proxy-middleware": "^3.0.3",
-    "nginx": "^1.0.8",
-    "path": "^0.12.7",
-    "vercel": "^41.4.1"
+    "path": "^0.12.7"
   },
   "name": "coldnova",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "MainLoader.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "node MainLoader.js && git add . && git commit -m '1' && git push && vercel --prod",
     "build": "node MainLoader.js",
     "dev": "vercel dev --debug"
   },

@@ -19,11 +19,9 @@ const toolsPath = path.resolve(__dirname, 'tools');
 
 // Task list
 const tasks = [
-  { command: 'npm install', description: 'Installing npm packages' },
-  { command: `node ${path.join(toolsPath, 'ConvertJson.js')}`, description: 'Running JSON Converter' },
   { command: `node ${path.join(toolsPath, 'CreateGameFiles.js')}`, description: 'Running Game File Creator' },
   { command: `node ${path.join(toolsPath, 'IndexCreator.js')}`, description: 'Running index.html Creator' },
-  { command: `node ${path.join(toolsPath, 'GenerateSitemap.js')}`, description: 'Running Sitemap Creator' },
+  { command: `node ${path.join(toolsPath, 'GenerateSitemap.js')}`, description: 'Running Sitemap Creator' }
 ];
 
 // Run all tasks sequentially
