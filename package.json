@@ -4,7 +4,8 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "fs": "^0.0.1-security",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "sharp": "^0.33.0"
   },
   "name": "coldnova",
   "version": "1.0.0",
