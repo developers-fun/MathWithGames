@@ -45,7 +45,7 @@ body {
   animation: fadeOut 0.7s forwards; /* Fade out over 1 second */
 }
 
-nav {
+header {
   width: 100%;
   height: 80px;
   background-color: var(--surface-dark);
@@ -302,18 +302,6 @@ main {
 .text-container {
   display: flex;
   flex-direction: column;
-}
-
-.hidtext {
-    position: absolute;
-    clip: rect(1px, 1px, 1px, 1px);
-    -webkit-clip-path: inset(0px 0px 99.9% 99.9%);
-    clip-path: inset(0px 0px 99.9% 99.9%);
-    overflow: hidden;
-    height: 1px;
-    width: 1px;
-    padding: 0;
-    border: 0;
 }
 
 /* Disclaimer Popup Styles */
