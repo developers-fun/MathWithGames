@@ -13,7 +13,7 @@ const gamesData = JSON.parse(fs.readFileSync(gamesJsonPath, 'utf8'));
 // Generate Hot Games HTML
 function generateHotGames(games) {
   return games
-    .filter((game) => game.hot === 1)
+    .filter((game) => game.hot === 1 && game.visible === 1)
     .map(
       (game) => `
         <a href="${game.path}">
