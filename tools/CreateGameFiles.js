@@ -62,7 +62,8 @@ function main() {
                     .replace(/GamePathInsert/g, game.iframepath)
                     .replace(/GameImgInsert/g, img)
                     .replace(/GameNameInsert/g, name)
-                    .replace(/CreatorNameInsert/g, creator);
+                    .replace(/CreatorNameInsert/g, creator)
+                    .replace(/GamePagePathInsert/g, game.path);
 
                 // Write the new file
                 fs.writeFileSync(newFilePath, newContent);
