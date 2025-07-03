@@ -336,7 +336,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/getawayshootouts"
+            "iframepath": "/GetawayShootouts"
         },
         {
             "name": "gobble",
@@ -437,7 +437,7 @@
         {
             "name": "l2f3",
             "creator": "marketjs",
-            "path": "/g/L2f3.html",
+            "path": "/g/l2f3.html",
             "image": "/assets/image/l2f3.webp",
             "visible": 1,
             "hot": 0,
@@ -446,7 +446,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/l2f3"
+            "iframepath": "/L2f3"
         },
         {
             "name": "level devil",
@@ -586,7 +586,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/slope"
+            "iframepath": "/Slope"
         },
         {
             "name": "slope 2",
@@ -600,7 +600,7 @@
                 "shooter",
                 "multiplayer"
             ],
-            "iframepath": "/slope2"
+            "iframepath": "/Slope2"
         },
         {
             "name": "soccer random",
