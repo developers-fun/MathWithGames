@@ -393,6 +393,15 @@
             "iframepath": "/hoverracedrive"
         },
         {
+            "name": "idle ants",
+            "creator": "MadBox",
+            "path": "/g/idleants.html",
+            "image": "/assets/image/idleants.webp",
+            "visible": 1,
+            "hot": 1,
+            "iframepath": "/idleants"
+        },
+        {
             "name": "jetpack joyride",
             "creator": "halfbrick studios",
             "path": "/g/jetpackjoyride.html",
@@ -573,6 +582,24 @@
                 "multiplayer"
             ],
             "iframepath": "/slicemaster"
+        },
+        {
+            "name": "slime laboratory",
+            "creator": "neutronized.com",
+            "path": "/g/slimelaboratory.html",
+            "image": "/assets/image/slimelaboratory.webp",
+            "visible": 1,
+            "hot": 0,
+            "iframepath": "/slimelaboratory"
+        },
+        {
+            "name": "snow rider 3d",
+            "creator": "neutronized.com",
+            "path": "/g/snowrider3d.html",
+            "image": "/assets/image/snowrider.webp",
+            "visible": 1,
+            "hot": 0,
+            "iframepath": "/snowrider"
         },
         {
             "name": "slope",
