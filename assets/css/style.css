@@ -1,0 +1,56 @@
+:root {
+    --font: 'Roboto', sans-serif;
+    --nav-colors: rgb(19 27 41);
+    --background-color: rgb(6, 13, 25);
+    --section-colors: #1b283b;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font);
+}
+
+body {
+    background-color: var(--background-color);
+}
+
+header {
+    width: 100%;
+    height: 80px;
+    background-color: var(--nav-colors);
+    padding: 0.7rem 1.4rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.navlinks {
+    margin-left: auto;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.navlogo {
+    width: 60px;
+}
+
+.logolinks {
+    width: 25px;
+    height: 25px;
+    transition: 0.3s ease-in-out transform;
+}
+  
+.logolinks:hover {
+  transform: scale(150%);
+}
+
+.slider {
+    margin: 25px; 
+    padding: 15px;
+    gap: 5px;
+    width: 100%;
+    height: 183px;
+    border-radius: 15px;
+    background-color: #131b29;
+}
