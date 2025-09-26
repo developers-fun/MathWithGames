@@ -1,0 +1,260 @@
+{
+  "brainGames": [
+    {
+      "name": "Bitlife",
+      "creator": "candywriter",
+      "path": "/g/bitlife.html",
+      "image": "/assets/image/bitlife.webp",
+      "link": "/bitlife"
+    },
+    {
+      "name": "Block Blast",
+      "creator": "hungry studio",
+      "path": "/g/blockblast.html",
+      "image": "/assets/image/blockblast.webp",
+      "link": "/BlockBlast"
+    },
+    {
+      "name": "Chess",
+      "creator": "unknown",
+      "path": "/g/chess.html",
+      "image": "/assets/image/chess.webp",
+      "link": "/chess"
+    },
+    {
+      "name": "Google Snake",
+      "creator": "google",
+      "path": "/g/googlesnake.html",
+      "image": "/assets/image/googlesnake.webp",
+      "link": "/snak.ee/googlesnakenew"
+    },
+    {
+      "name": "Hextris",
+      "creator": "hextris",
+      "path": "/g/hextris.html",
+      "image": "/assets/image/hextris.webp",
+      "link": "/hextrismain"
+    },
+    {
+      "name": "Idle Ants",
+      "creator": "MadBox",
+      "path": "/g/idleants.html",
+      "image": "/assets/image/idleants.webp",
+      "link": "/idleants"
+    },
+    {
+      "name": "Minecraft",
+      "creator": "mojang studios",
+      "path": "/g/minecraft.html",
+      "image": "/assets/image/minecraftlogo.webp",
+      "link": "/minecraft"
+    },
+    {
+      "name": "Monkey Mart",
+      "creator": "tinydobbins",
+      "path": "/g/monkeymart.html",
+      "image": "/assets/image/monkeymart.webp",
+      "link": "/monkeymart"
+    },
+    {
+      "name": "Slime Laboratory",
+      "creator": "neutronized.com",
+      "path": "/g/slimelaboratory.html",
+      "image": "/assets/image/slimelaboratory.webp",
+      "link": "/slimelaboratory"
+    },
+    {
+      "name": "Stacktris",
+      "creator": "fancade",
+      "path": "/g/stacktris.html",
+      "image": "/assets/image/stacktris.webp",
+      "link": "/stacktris"
+    }
+  ],
+  "adventurePlatformerGames": [
+    {
+      "name": "Dadish",
+      "creator": "thomas k. young",
+      "path": "/g/dadish.html",
+      "image": "/assets/image/dadish.webp",
+      "link": "/Dadish"
+    },
+    {
+      "name": "Dadish 3",
+      "creator": "thomas k. young",
+      "path": "/g/dadish3.html",
+      "image": "/assets/image/dadish3.webp",
+      "link": "/Dadish3"
+    },
+    {
+      "name": "Doodle Jump",
+      "creator": "lima sky",
+      "path": "/g/doodlejump.html",
+      "image": "/assets/image/doodlejump.webp",
+      "link": "/doodlejumpmain"
+    },
+    {
+      "name": "Escape Road",
+      "creator": "az games",
+      "path": "/g/escaperoad.html",
+      "image": "/assets/image/escaperoad.webp",
+      "link": "https://azgames.io/escaperoad/"
+    },
+    {
+      "name": "Escape Road 2",
+      "creator": "az games",
+      "path": "/g/escaperoad2.html",
+      "image": "/assets/image/escaperoad2.webp",
+      "link": "https:/.azgame.io/escaperoad2/"
+    },
+    {
+      "name": "Geometry Dash",
+      "creator": "robtop games",
+      "path": "/g/geometrydash.html",
+      "image": "/assets/image/geometrydash.webp",
+      "link": "/geometrydash"
+    },
+    {
+      "name": "Jetpack Joyride",
+      "creator": "halfbrick studios",
+      "path": "/g/jetpackjoyride.html",
+      "image": "/assets/image/jetpack.webp",
+      "link": "/jetpackjoyride"
+    },
+    {
+      "name": "Level Devil",
+      "creator": "unept",
+      "path": "/g/leveldevil.html",
+      "image": "/assets/image/leveldevil.webp",
+      "link": "/LevelDevil"
+    },
+    {
+      "name": "Subway Surfers",
+      "creator": "sybo games",
+      "path": "/g/subwaysurfers.html",
+      "image": "/assets/image/subwaysurfers.webp",
+      "link": "/subwaysurfers"
+    }
+  ],
+  "sportsArcadeGames": [
+    {
+      "name": "2 minute football",
+      "creator": "igamebank",
+      "path": "/g/2minutefootball.html",
+      "image": "/assets/image/2minutefootball.webp",
+      "link": "/2minutefootball"
+    },
+    {
+      "name": "Basketball Bros",
+      "creator": "mad puffers",
+      "path": "/g/basketballbros.html",
+      "image": "/assets/image/basketballstars.webp",
+      "link": "/basketbros"
+    },
+    {
+      "name": "Color Switch",
+      "creator": "fortafy games",
+      "path": "/g/colorswitch.html",
+      "image": "/assets/image/colorswitch.webp",
+      "link": "/colorswitchmain"
+    },
+    {
+      "name": "Coreball",
+      "creator": "game distribution",
+      "path": "/g/coreball.html",
+      "image": "/assets/image/coreball.webp",
+      "link": "/coreball"
+    },
+    {
+      "name": "Doodle Baseball",
+      "creator": "google",
+      "path": "/g/doodlebaseball.html",
+      "image": "/assets/image/doodlebaseball.webp",
+      "link": "/doodlebaseball"
+    },
+    {
+      "name": "Drift Boss",
+      "creator": "marketjs",
+      "path": "/g/driftboss.html",
+      "image": "/assets/image/driftboss.webp",
+      "link": "/driftbossmain"
+    },
+    {
+      "name": "Drive Mad",
+      "creator": "fancade",
+      "path": "/g/drivemad.html",
+      "image": "/assets/image/drivemad.webp",
+      "link": "/drivemadmain"
+    },
+    {
+      "name": "Fruit Ninja",
+      "creator": "halfbrick studios",
+      "path": "/g/fruitninja.html",
+      "image": "/assets/image/fruit.webp",
+      "link": "/fruit"
+    },
+    {
+      "name": "Gobble",
+      "creator": "fancade",
+      "path": "/g/gobble.html",
+      "image": "/assets/image/gobble.webp",
+      "link": "/gobble"
+    },
+    {
+      "name": "Hover Racer Drive",
+      "creator": "unknown",
+      "path": "/g/hoverracerdrive.html",
+      "image": "/assets/image/hoverracerdrive.webp",
+      "link": "/hoverracedrive"
+    },
+    {
+      "name": "Motoroadrash3d",
+      "creator": "unknown",
+      "path": "/g/motoroadrash3d.html",
+      "image": "/assets/image/motoroadrash3d.webp",
+      "link": "/motoroadrash3d"
+    },
+    {
+      "name": "Motox3M",
+      "creator": "mad puffers",
+      "path": "/g/motox3m.html",
+      "image": "/assets/image/motox3m.webp",
+      "link": "/motox3mmain"
+    },
+    {
+      "name": "Snow Rider 3d",
+      "creator": "neutronized.com",
+      "path": "/g/snowrider3d.html",
+      "image": "/assets/image/snowrider.webp",
+      "link": "/snowrider"
+    },
+    {
+      "name": "Slope",
+      "creator": "y8",
+      "path": "/g/slope.html",
+      "image": "/assets/image/slope.webp",
+      "link": "/Slope"
+    },
+    {
+      "name": "Slope 2",
+      "creator": "y8",
+      "path": "/g/slope2.html",
+      "image": "/assets/image/slope.webp",
+      "link": "/Slope2"
+    },
+    {
+      "name": "Stack",
+      "creator": "ketchapp",
+      "path": "/g/stack.html",
+      "image": "/assets/image/stack.webp",
+      "link": "/stackmain"
+    },
+    {
+      "name": "Tinyfishing",
+      "creator": "mad buffer",
+      "path": "/g/tinyfishing.html",
+      "image": "/assets/image/tinyfishing.webp",
+      "link": "/tinyfishing"
+    }
+  ]
+} 
