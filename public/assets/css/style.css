@@ -70,20 +70,6 @@ svg:hover {
 
 .navlogo {
   width: 60px;
-  animation-delay: 0.5s;
-  animation-duration: 1s;
-  animation-name: spin;
-  animation-fill-mode: forwards;
-}
-
-@keyframes spin {
-  0% {
-    transform: rotate(0);
-  }
-
-  100% {
-    transform: rotate(90deg);
-  }
 }
 
 .logolinks {
@@ -94,22 +80,6 @@ svg:hover {
 
 .logolinks:hover {
   transform: scale(150%);
-}
-
-.navlogo:hover {
-  animation-name: rotate;
-  animation-duration: 1s;
-  animation-fill-mode: forwards;
-  animation-delay: 0.5s;
-}
-
-@keyframes rotate {
-  0% {
-    rotate: 0;
-  }
-  100% {
-    transform: rotate(90deg);
-  }
 }
 
 .navlinks a{
