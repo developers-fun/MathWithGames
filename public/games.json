@@ -1,335 +1,334 @@
 {
-    "games": [
-      {
-        "name": "boxing random",
-        "creator": "rhm interactive",
-        "path": "/g/boxingrandom.html",
-        "image": "/assets/image/boxingrandom.webp",
-        "visible": 0,
-        "hot": 0,
-        "categories": ["Sports"],
-        "iframepath": "/boxingrandom"
-      },
-      {
-        "name": "basketball bros",
-        "creator": "mad puffers",
-        "path": "/g/basketballbros.html",
-        "image": "/assets/image/basketballstars.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Sports"],
-        "iframepath": "/basketbros"
-      },
-      {
-        "name": "blumgi slime",
-        "creator": "blumgi",
-        "path": "/g/blumgislime.html",
-        "image": "/assets/image/blumgislime.webp",
-        "visible": 0,
-        "hot": 1,
-        "categories": ["Physics"],
-        "iframepath": "/blumgislime"
-      },
-      {
-        "name": "clicker heroes",
-        "creator": "playsaurus",
-        "path": "/g/clickerheroes.html",
-        "image": "/assets/image/clickerheroes.webp",
-        "visible": 0,
-        "hot": 0,
-        "categories": ["Numbers"],
-        "iframepath": "/clickerheroesmain/"
-      },
-      {
-        "name": "cookie clicker",
-        "creator": "redbit games",
-        "path": "/g/cookieclicker.html",
-        "image": "/assets/image/cookieclicker.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Numbers"],
-        "iframepath": "/cookieclickermain"
-      },
-      {
-        "name": "chess",
-        "creator": "unknown",
-        "path": "/g/chess.html",
-        "image": "/assets/image/chess.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Sports"],
-        "iframepath": "/chess"
-      },
-      {
-        "name": "descent",
-        "creator": "sakkat studio",
-        "path": "/g/descent.html",
-        "image": "/assets/image/descent.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/descent"
-      },
-      {
-        "name": "doodle baseball",
-        "creator": "google",
-        "path": "/g/doodlebaseball.html",
-        "image": "/assets/image/doodlebaseball.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics", "Sports"],
-        "iframepath": "/doodlebaseball"
-      },
-      {
-        "name": "doodle jump",
-        "creator": "lima sky",
-        "path": "/g/doodlejump.html",
-        "image": "/assets/image/doodlejump.webp",
-        "visible": 0,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/doodlejumpmain"
-      },
-      {
-        "name": "drift boss",
-        "creator": "marketjs",
-        "path": "/g/driftboss.html",
-        "image": "/assets/image/driftboss.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/driftbossmain"
-      },
-      {
-        "name": "drive mad",
-        "creator": "fancade",
-        "path": "/g/drivemad.html",
-        "image": "/assets/image/drivemad.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/drivemadmain"
-      },
-      {
-        "name": "escape road",
-        "creator": "az games",
-        "path": "/g/escaperoad.html",
-        "image": "/assets/image/escaperoad.webp",
-        "visible": 0,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "https://azgames.io/escaperoad/"
-      },
-      {
-        "name": "escape road 2",
-        "creator": "az games",
-        "path": "/g/escaperoad2.html",
-        "image": "/assets/image/escaperoad2.webp",
-        "visible": 0,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "https:/.azgame.io/escaperoad2/"
-      },
-      {
-      {
-        "name": "google snake",
-        "creator": "google",
-        "path": "/g/googlesnake.html",
-        "image": "/assets/image/googlesnake.webp",
-        "visible": 0,
-        "hot": 0,
-        "categories": ["Numbers"],
-        "iframepath": "/snak.ee/googlesnakenew"
-      },
-      {
-        "name": "hover racer drive",
-        "creator": "unknown",
-        "path": "/g/hoverracerdrive.html",
-        "image": "/assets/image/hoverracerdrive.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/hoverracedrive"
-      },
-      {
-        "name": "idle ants",
-        "creator": "MadBox",
-        "path": "/g/idleants.html",
-        "image": "/assets/image/idleants.webp",
-        "visible": 1,
-        "hot": 1,
-        "iframepath": "/idleants",
-        "categories": ["Numbers"]
-      },
-      {
-        "name": "jetpack joyride",
-        "creator": "halfbrick studios",
-        "path": "/g/jetpackjoyride.html",
-        "image": "/assets/image/jetpack.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/jetpackjoyride"
-      },
-      {
-        "name": "l2f",
-        "creator": "marketjs",
-        "path": "/g/l2f.html",
-        "image": "/assets/image/l2f.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/L2f"
-      },
-      {
-        "name": "l2f2",
-        "creator": "marketjs",
-        "path": "/g/l2f2.html",
-        "image": "/assets/image/l2f2.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/L2f2"
-      },
-      {
-        "name": "l2f3",
-        "creator": "marketjs",
-        "path": "/g/l2f3.html",
-        "image": "/assets/image/l2f3.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/L2f3"
-      },
-      {
-        "name": "motox3m",
-        "creator": "mad puffers",
-        "path": "/g/motox3m.html",
-        "image": "/assets/image/motox3m.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Sports"],
-        "iframepath": "/motox3mmain"
-      },
-      {
-        "name": "ragdoll hit",
-        "creator": "ericetto",
-        "path": "/g/ragdollhit.html",
-        "image": "/assets/image/ragdollhit.webp",
-        "visible": 1,
-        "hot": 1,
-        "categories": ["Physics"],
-        "iframepath": "/ragdollhit"
-      },
-      {
-        "name": "retrobowl",
-        "creator": "new star games",
-        "path": "/g/retrobowl.html",
-        "image": "/assets/image/retrobowl.webp",
-        "visible": 0,
-        "hot": 0,
-        "categories": ["Sports"],
-        "iframepath": "https:/316009.konggames.comz/0031/6009/live/index.html"
-      },
-      {
-        "name": "slime laboratory",
-        "creator": "neutronized.com",
-        "path": "/g/slimelaboratory.html",
-        "image": "/assets/image/slimelaboratory.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/slimelaboratory"
-      },
-      {
-        "name": "snow rider 3d",
-        "creator": "neutronized.com",
-        "path": "/g/snowrider3d.html",
-        "image": "/assets/image/snowrider.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/snowrider"
-      },
-      {
-        "name": "soccer random",
-        "creator": "rhm interactive",
-        "path": "/g/soccerrandom.html",
-        "image": "/assets/image/soccerrandom.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Sports"],
-        "iframepath": "/soccerrandom"
-      },
-      {
-        "name": "stack",
-        "creator": "ketchapp",
-        "path": "/g/stack.html",
-        "image": "/assets/image/stack.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Physics"],
-        "iframepath": "/stackmain"
-      },
-      {
-        "name": "stacktris",
-        "creator": "fancade",
-        "path": "/g/stacktris.html",
-        "image": "/assets/image/stacktris.webp",
-        "visible": 1,
-        "hot": 1,
-        "categories": ["Physics"],
-        "iframepath": "/stacktris"
-      },
-      {
-        "name": "subway surfers",
-        "creator": "sybo games",
-        "path": "/g/subwaysurfers.html",
-        "image": "/assets/image/subwaysurfers.webp",
-        "visible": 1,
-        "hot": 1,
-        "categories": ["Sports"],
-        "iframepath": "/subwaysurfers"
-      },
-      {
-        "name": "table tennis world tour",
-        "creator": "yakuto",
-        "path": "/g/tabletennisworldtour.html",
-        "image": "/assets/image/tabletennisworldtour.webp",
-        "visible": 1,
-        "hot": 0,
-        "categories": ["Sports"],
-        "iframepath": "/TableTennisWorldTour"
-      },
-      {
-        "name": "tag",
-        "creator": "jetgames",
-        "path": "/g/tag.html",
-        "image": "/assets/image/tag.webp",
-        "visible": 1,
-        "hot": 1,
-        "categories": ["Sports"],
-        "iframepath": "/Tag"
-      },
-      {
-        "name": "tag 2",
-        "creator": "jetgames",
-        "path": "/g/tag2.html",
-        "image": "/assets/image/tag2.webp",
-        "visible": 1,
-        "hot": 1,
-        "categories": ["Sports"],
-        "iframepath": "/Tag2"
-      },
-      {
-        "name": "zeepkist crash",
-        "creator": "steelpan interactive",
-        "path": "/g/zeepkistcrash.html",
-        "image": "/assets/image/zeepkistcrash.webp",
-        "visible": 1,
-        "hot": 1,
-        "categories": ["Physics"],
-        "iframepath": "/zeepkistcrash"
-      }
-    ]
-  }  
+  "games": [
+    {
+      "name": "boxing random",
+      "creator": "rhm interactive",
+      "path": "/g/boxingrandom.html",
+      "image": "/assets/image/boxingrandom.webp",
+      "visible": 0,
+      "hot": 0,
+      "categories": ["Sports"],
+      "iframepath": "/boxingrandom"
+    },
+    {
+      "name": "basketball bros",
+      "creator": "mad puffers",
+      "path": "/g/basketballbros.html",
+      "image": "/assets/image/basketballstars.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Sports"],
+      "iframepath": "/basketbros"
+    },
+    {
+      "name": "blumgi slime",
+      "creator": "blumgi",
+      "path": "/g/blumgislime.html",
+      "image": "/assets/image/blumgislime.webp",
+      "visible": 0,
+      "hot": 1,
+      "categories": ["Physics"],
+      "iframepath": "/blumgislime"
+    },
+    {
+      "name": "clicker heroes",
+      "creator": "playsaurus",
+      "path": "/g/clickerheroes.html",
+      "image": "/assets/image/clickerheroes.webp",
+      "visible": 0,
+      "hot": 0,
+      "categories": ["Numbers"],
+      "iframepath": "/clickerheroesmain/"
+    },
+    {
+      "name": "cookie clicker",
+      "creator": "redbit games",
+      "path": "/g/cookieclicker.html",
+      "image": "/assets/image/cookieclicker.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Numbers"],
+      "iframepath": "/cookieclickermain"
+    },
+    {
+      "name": "chess",
+      "creator": "unknown",
+      "path": "/g/chess.html",
+      "image": "/assets/image/chess.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Sports"],
+      "iframepath": "/chess"
+    },
+    {
+      "name": "descent",
+      "creator": "sakkat studio",
+      "path": "/g/descent.html",
+      "image": "/assets/image/descent.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/descent"
+    },
+    {
+      "name": "doodle baseball",
+      "creator": "google",
+      "path": "/g/doodlebaseball.html",
+      "image": "/assets/image/doodlebaseball.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics", "Sports"],
+      "iframepath": "/doodlebaseball"
+    },
+    {
+      "name": "doodle jump",
+      "creator": "lima sky",
+      "path": "/g/doodlejump.html",
+      "image": "/assets/image/doodlejump.webp",
+      "visible": 0,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/doodlejumpmain"
+    },
+    {
+      "name": "drift boss",
+      "creator": "marketjs",
+      "path": "/g/driftboss.html",
+      "image": "/assets/image/driftboss.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/driftbossmain"
+    },
+    {
+      "name": "drive mad",
+      "creator": "fancade",
+      "path": "/g/drivemad.html",
+      "image": "/assets/image/drivemad.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/drivemadmain"
+    },
+    {
+      "name": "escape road",
+      "creator": "az games",
+      "path": "/g/escaperoad.html",
+      "image": "/assets/image/escaperoad.webp",
+      "visible": 0,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "https://azgames.io/escaperoad/"
+    },
+    {
+      "name": "escape road 2",
+      "creator": "az games",
+      "path": "/g/escaperoad2.html",
+      "image": "/assets/image/escaperoad2.webp",
+      "visible": 0,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "https:/.azgame.io/escaperoad2/"
+    },
+    {
+      "name": "google snake",
+      "creator": "google",
+      "path": "/g/googlesnake.html",
+      "image": "/assets/image/googlesnake.webp",
+      "visible": 0,
+      "hot": 0,
+      "categories": ["Numbers"],
+      "iframepath": "/snak.ee/googlesnakenew"
+    },
+    {
+      "name": "hover racer drive",
+      "creator": "unknown",
+      "path": "/g/hoverracerdrive.html",
+      "image": "/assets/image/hoverracerdrive.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/hoverracedrive"
+    },
+    {
+      "name": "idle ants",
+      "creator": "MadBox",
+      "path": "/g/idleants.html",
+      "image": "/assets/image/idleants.webp",
+      "visible": 1,
+      "hot": 1,
+      "iframepath": "/idleants",
+      "categories": ["Numbers"]
+    },
+    {
+      "name": "jetpack joyride",
+      "creator": "halfbrick studios",
+      "path": "/g/jetpackjoyride.html",
+      "image": "/assets/image/jetpack.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/jetpackjoyride"
+    },
+    {
+      "name": "l2f",
+      "creator": "marketjs",
+      "path": "/g/l2f.html",
+      "image": "/assets/image/l2f.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/L2f"
+    },
+    {
+      "name": "l2f2",
+      "creator": "marketjs",
+      "path": "/g/l2f2.html",
+      "image": "/assets/image/l2f2.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/L2f2"
+    },
+    {
+      "name": "l2f3",
+      "creator": "marketjs",
+      "path": "/g/l2f3.html",
+      "image": "/assets/image/l2f3.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/L2f3"
+    },
+    {
+      "name": "motox3m",
+      "creator": "mad puffers",
+      "path": "/g/motox3m.html",
+      "image": "/assets/image/motox3m.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Sports"],
+      "iframepath": "/motox3mmain"
+    },
+    {
+      "name": "ragdoll hit",
+      "creator": "ericetto",
+      "path": "/g/ragdollhit.html",
+      "image": "/assets/image/ragdollhit.webp",
+      "visible": 1,
+      "hot": 1,
+      "categories": ["Physics"],
+      "iframepath": "/ragdollhit"
+    },
+    {
+      "name": "retrobowl",
+      "creator": "new star games",
+      "path": "/g/retrobowl.html",
+      "image": "/assets/image/retrobowl.webp",
+      "visible": 0,
+      "hot": 0,
+      "categories": ["Sports"],
+      "iframepath": "https:/316009.konggames.comz/0031/6009/live/index.html"
+    },
+    {
+      "name": "slime laboratory",
+      "creator": "neutronized.com",
+      "path": "/g/slimelaboratory.html",
+      "image": "/assets/image/slimelaboratory.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/slimelaboratory"
+    },
+    {
+      "name": "snow rider 3d",
+      "creator": "neutronized.com",
+      "path": "/g/snowrider3d.html",
+      "image": "/assets/image/snowrider.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/snowrider"
+    },
+    {
+      "name": "soccer random",
+      "creator": "rhm interactive",
+      "path": "/g/soccerrandom.html",
+      "image": "/assets/image/soccerrandom.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Sports"],
+      "iframepath": "/soccerrandom"
+    },
+    {
+      "name": "stack",
+      "creator": "ketchapp",
+      "path": "/g/stack.html",
+      "image": "/assets/image/stack.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Physics"],
+      "iframepath": "/stackmain"
+    },
+    {
+      "name": "stacktris",
+      "creator": "fancade",
+      "path": "/g/stacktris.html",
+      "image": "/assets/image/stacktris.webp",
+      "visible": 1,
+      "hot": 1,
+      "categories": ["Physics"],
+      "iframepath": "/stacktris"
+    },
+    {
+      "name": "subway surfers",
+      "creator": "sybo games",
+      "path": "/g/subwaysurfers.html",
+      "image": "/assets/image/subwaysurfers.webp",
+      "visible": 1,
+      "hot": 1,
+      "categories": ["Sports"],
+      "iframepath": "/subwaysurfers"
+    },
+    {
+      "name": "table tennis world tour",
+      "creator": "yakuto",
+      "path": "/g/tabletennisworldtour.html",
+      "image": "/assets/image/tabletennisworldtour.webp",
+      "visible": 1,
+      "hot": 0,
+      "categories": ["Sports"],
+      "iframepath": "/TableTennisWorldTour"
+    },
+    {
+      "name": "tag",
+      "creator": "jetgames",
+      "path": "/g/tag.html",
+      "image": "/assets/image/tag.webp",
+      "visible": 1,
+      "hot": 1,
+      "categories": ["Sports"],
+      "iframepath": "/Tag"
+    },
+    {
+      "name": "tag 2",
+      "creator": "jetgames",
+      "path": "/g/tag2.html",
+      "image": "/assets/image/tag2.webp",
+      "visible": 1,
+      "hot": 1,
+      "categories": ["Sports"],
+      "iframepath": "/Tag2"
+    },
+    {
+      "name": "zeepkist crash",
+      "creator": "steelpan interactive",
+      "path": "/g/zeepkistcrash.html",
+      "image": "/assets/image/zeepkistcrash.webp",
+      "visible": 1,
+      "hot": 1,
+      "categories": ["Physics"],
+      "iframepath": "/zeepkistcrash"
+    }
+  ]
+}  
