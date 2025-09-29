@@ -1,16 +1,6 @@
 {
     "games": [
       {
-        "name": "2 minute football",
-        "creator": "igamebank",
-        "path": "/g/2minutefootball.html",
-        "image": "/assets/image/2minutefootball.webp",
-        "visible": 1,
-        "hot": 1,
-        "categories": ["Sports"],
-        "iframepath": "/2minutefootball"
-      },
-      {
         "name": "boxing random",
         "creator": "rhm interactive",
         "path": "/g/boxingrandom.html",
@@ -141,15 +131,6 @@
         "iframepath": "https:/.azgame.io/escaperoad2/"
       },
       {
-        "name": "gobble",
-        "creator": "fancade",
-        "path": "/g/gobble.html",
-        "image": "/assets/image/gobble.webp",
-        "visible": 1,
-        "hot": 1,
-        "categories": ["Physics"],
-        "iframepath": "/gobble"
-      },
       {
         "name": "google snake",
         "creator": "google",
@@ -219,26 +200,6 @@
         "hot": 0,
         "categories": ["Physics"],
         "iframepath": "/L2f3"
-      },
-      {
-        "name": "level devil",
-        "creator": "unept",
-        "path": "/g/leveldevil.html",
-        "image": "/assets/image/leveldevil.webp",
-        "visible": 1,
-        "hot": 1,
-        "categories": ["Physics"],
-        "iframepath": "/LevelDevil"
-      },
-      {
-        "name": "motoroadrash3d",
-        "creator": "unknown",
-        "path": "/g/motoroadrash3d.html",
-        "image": "/assets/image/motoroadrash3d.webp",
-        "visible": 1,
-        "hot": 1,
-        "categories": ["Sports"],
-        "iframepath": "/motoroadrash3d"
       },
       {
         "name": "motox3m",
