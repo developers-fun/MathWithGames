@@ -1,0 +1,8 @@
+/.DS_Store
+/.vscode
+node_modules
+README.node_modules
+package-lock.json
+.vercel
+.env
+/backend/node_modules

@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /assets/
+
+Sitemap: https://coldnova.xyz/sitemap.xml
+
+Crawl-delay: 1
